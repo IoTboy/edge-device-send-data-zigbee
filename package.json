@@ -1,0 +1,22 @@
+{
+  "name": "edge-device-send-data-zigbee",
+  "version": "1.0.0",
+  "description": "Send data over ZigBee from Edge device",
+  "main": "index.js",
+  "dependencies": {
+    "jsupm_xbee": "^0.4.1",
+    "serialport": "^2.0.6",
+    "xbee-api": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iot",
+    "zigbee",
+    "edge-device"
+  ],
+  "author": "Intel",
+  "license": "MIT"
+}
